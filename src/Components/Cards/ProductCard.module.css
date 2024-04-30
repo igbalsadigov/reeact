@@ -1,0 +1,41 @@
+
+
+.prdctBtnTwo {
+  background-color: white;
+  color: black;
+  border: 1px solid gray;
+  transform: 1s;
+}
+
+.productCardText {
+.prdctBtnOne{ 
+    background-color: black;
+    color: aliceblue;
+  }
+}
+
+.prdctBtnTwo:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  transition: 1s;
+}
+
+.prdctBtnOne {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  transform: 1s;
+}
+button{
+  margin: 2px;
+  padding: 10px;
+}
+.prdctBtnOne:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  transition: 0.4s;
+}
